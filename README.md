@@ -1,6 +1,10 @@
 # SISTEMA CASETA 
 App para la realización de encuestas y la gestión de padrón de usuarios 
 
+## App
+
+[Deployed on Netlify (front-end) & Heroku (back-end)](https://caseta.netlify.app)
+
 ## Quick start
 
 - Install dependencies: `npm install` or `yarn`
